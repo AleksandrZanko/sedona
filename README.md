@@ -4,7 +4,6 @@
 
 ### In this project I mastered:
 * HTML/CSS coding
-* CSS slider
 * Jquery сalendar plugin 
 * JavaScript popup
 * JavaScript range
