@@ -4,7 +4,7 @@
 
 ### In this project I mastered:
 * HTML/CSS coding
-* Jquery сalendar plugin 
+* jQuery сalendar plugin 
 * JavaScript popup
 * JavaScript range
 * JavaScript sorting
